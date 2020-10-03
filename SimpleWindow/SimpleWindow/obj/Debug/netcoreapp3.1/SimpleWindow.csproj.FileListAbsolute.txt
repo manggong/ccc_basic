@@ -1,0 +1,12 @@
+/Users/kjh/ccc/SimpleWindow/SimpleWindow/bin/Debug/netcoreapp3.1/SimpleWindow.deps.json
+/Users/kjh/ccc/SimpleWindow/SimpleWindow/bin/Debug/netcoreapp3.1/SimpleWindow.runtimeconfig.json
+/Users/kjh/ccc/SimpleWindow/SimpleWindow/bin/Debug/netcoreapp3.1/SimpleWindow.runtimeconfig.dev.json
+/Users/kjh/ccc/SimpleWindow/SimpleWindow/bin/Debug/netcoreapp3.1/SimpleWindow.dll
+/Users/kjh/ccc/SimpleWindow/SimpleWindow/bin/Debug/netcoreapp3.1/SimpleWindow.pdb
+/Users/kjh/ccc/SimpleWindow/SimpleWindow/obj/Debug/netcoreapp3.1/SimpleWindow.csprojAssemblyReference.cache
+/Users/kjh/ccc/SimpleWindow/SimpleWindow/obj/Debug/netcoreapp3.1/SimpleWindow.AssemblyInfoInputs.cache
+/Users/kjh/ccc/SimpleWindow/SimpleWindow/obj/Debug/netcoreapp3.1/SimpleWindow.AssemblyInfo.cs
+/Users/kjh/ccc/SimpleWindow/SimpleWindow/obj/Debug/netcoreapp3.1/SimpleWindow.csproj.CoreCompileInputs.cache
+/Users/kjh/ccc/SimpleWindow/SimpleWindow/obj/Debug/netcoreapp3.1/SimpleWindow.dll
+/Users/kjh/ccc/SimpleWindow/SimpleWindow/obj/Debug/netcoreapp3.1/SimpleWindow.pdb
+/Users/kjh/ccc/SimpleWindow/SimpleWindow/obj/Debug/netcoreapp3.1/SimpleWindow.genruntimeconfig.cache
